@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 export default function page() {
   return (
     <div>
-      <Hero imgUrl={scale} altTxt="Home" content="Scale" />
+      <Hero imgUrl={scale} altTxt="Home" content="めめめ" />
     </div>
   );
 }
